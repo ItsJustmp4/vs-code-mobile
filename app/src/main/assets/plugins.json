@@ -1,0 +1,62 @@
+[
+  {
+    "id": "ms-python.python",
+    "name": "Python",
+    "publisher": "Microsoft",
+    "description": "Language support, linting, debugging and environment integration for Python projects.",
+    "version": "2024.12.1",
+    "category": "Languages",
+    "downloads": "8.9M",
+    "rating": 4.8,
+    "tags": ["python", "debug", "lint"],
+    "installed": true
+  },
+  {
+    "id": "github.vscode-pull-request-github",
+    "name": "GitHub Pull Requests",
+    "publisher": "GitHub",
+    "description": "Review pull requests, comments and branch status directly from the editor.",
+    "version": "0.120.0",
+    "category": "Git",
+    "downloads": "6.4M",
+    "rating": 4.7,
+    "tags": ["github", "pull requests", "review"],
+    "installed": false
+  },
+  {
+    "id": "esbenp.prettier-vscode",
+    "name": "Prettier",
+    "publisher": "Prettier",
+    "description": "Formatter for TypeScript, JavaScript, JSON and markdown files with zero config defaults.",
+    "version": "10.4.0",
+    "category": "Formatters",
+    "downloads": "14.1M",
+    "rating": 4.9,
+    "tags": ["format", "javascript", "typescript"],
+    "installed": false
+  },
+  {
+    "id": "dbaeumer.vscode-eslint",
+    "name": "ESLint",
+    "publisher": "Microsoft",
+    "description": "Inline linting, fixes and warnings for JavaScript and TypeScript codebases.",
+    "version": "3.3.0",
+    "category": "Linters",
+    "downloads": "12.7M",
+    "rating": 4.7,
+    "tags": ["eslint", "lint", "javascript"],
+    "installed": true
+  },
+  {
+    "id": "natewallace.angular-extension-pack",
+    "name": "Angular Essentials",
+    "publisher": "Nate Wallace",
+    "description": "Snippets, template support and Angular tooling for bigger apps.",
+    "version": "1.8.1",
+    "category": "Frameworks",
+    "downloads": "2.3M",
+    "rating": 4.6,
+    "tags": ["angular", "templates", "snippets"],
+    "installed": false
+  }
+]
