@@ -71,11 +71,11 @@ fun VSCodeMobileApp() {
     val availableTabs = listOf("main.kt", "settings.gradle.kts", "plugin.json", "README.md")
     val sourceCode = listOf(
         "fun main() {",
-        "    println("Hello VS Code Mobile")",
+        "    println(\"Hello VS Code Mobile\")",
         "    renderWorkspace()",
         "}",
         "",
-        "val project = Project("mobile")",
+        "val project = Project(\"mobile\")",
         "project.enableMarketplace = true"
     )
 
